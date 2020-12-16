@@ -1,0 +1,8 @@
+name: FireCommand
+author: xTailsPvP
+version: 1.0
+main: de.tails.firecommand.main.FireCommand
+api-version: 1.8
+
+commands:
+   fire:
